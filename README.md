@@ -13,4 +13,4 @@
 </ol>
 <h2>How to run</h2>
 <p>Just need to open terminal into your folder and type :</p>
-    python Helper.py
+<code>python Helper.py</code>
