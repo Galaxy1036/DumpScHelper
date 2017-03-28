@@ -5,7 +5,7 @@
 <ol>
 <li>Helper.py</li>
 <li>Dumpsc.py (You can download it from here: https://github.com/123456abcdef/cr-sc-dump)</li>
-<li>All ""_tex.sc file you want dump</li>
+<li>All "_tex.sc" file you want dump</li>
 </ol>
 <h2>Dependencies</h2>
 <ol>
